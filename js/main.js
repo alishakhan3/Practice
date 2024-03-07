@@ -1,2 +1,2 @@
 const myHeading = document.querySelector("h1");
-myHeading.textContent = "Second branch!";
+myHeading.textContent = "2nd branch!";
